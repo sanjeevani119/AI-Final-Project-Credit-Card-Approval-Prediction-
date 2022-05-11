@@ -23,11 +23,13 @@ Models Used:
 6.	XG BOOST
 7.	KNearestNeighbors
 
+Metrics Used to Evaluate Models:
+1) Accuracy
+2) Precision
+3) Recall
+4) F1-score
 
-
-Results:
 User Manual:
-
-Download the ipynb file and run it on your PC to see the entire approach implemented in python code for visualization I’m attaching a tableau link
+Download the ipynb file and run it on your PC to see the entire approach implemented in python code for visualization I’m attaching a tableau link to quickly know how a bank approves the credit card.
 
 Link: https://public.tableau.com/views/AIFINALPROJECT/Dashboard1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link
